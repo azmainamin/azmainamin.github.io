@@ -207,6 +207,9 @@ section.success a.active {
         padding-top: 75px;
     }
 }
+.centered-text {
+    text-align: center;
+}
 
 #portfolio .portfolio-item {
     right: 0;

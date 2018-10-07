@@ -1,1 +1,1 @@
-# Personal website. Insprired from [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+Personal website. Insprired from [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
